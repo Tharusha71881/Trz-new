@@ -1,7 +1,6 @@
 {
-  "name": "trz-ff-store",
+  "name": "trz-store",
   "version": "1.0.0",
-  "description": "Free Fire Account Store",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
